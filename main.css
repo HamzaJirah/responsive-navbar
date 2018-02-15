@@ -28,3 +28,8 @@ body {
   background-color: #ddd;
   color: #000;
 }
+
+.side-nav{
+  height: 100%;
+  width: 0;
+}
