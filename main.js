@@ -1,1 +1,3 @@
-alert('hello');
+function openSlideMenu(){
+  
+}
