@@ -8,3 +8,8 @@ body {
   overflow: hidden;
   height: 63px;
 }
+
+.navbar a{
+  float: left;
+  display: block;
+}
