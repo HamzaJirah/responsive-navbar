@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 body {
   font-family: "Arial", serif;
   background-color: #f4f4f4;
@@ -6,7 +10,8 @@ body {
 .navbar{
   background-color: #3b5998;
   overflow: hidden;
-  height: 63px;
+  /* height: 63px; */
+  width: 100%;
 }
 
 .navbar a{
@@ -38,7 +43,7 @@ body {
   top: 0;
   left: 0;
   background-color: #111;
-  opacity: 0.9;
+  opacity: 0.8;
   overflow-x: hidden;
   padding-top: 60px;
   transition: 0.5s;
