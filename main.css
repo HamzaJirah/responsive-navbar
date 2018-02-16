@@ -49,4 +49,5 @@ body {
   font-size: 22px;
   color: #ccc;
   display: block;
+  transition: 0.3s;
 }
