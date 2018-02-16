@@ -55,3 +55,9 @@ body {
 .side-nav a:hover{
   color: #fff;
 }
+
+.side-nav .btn-close{
+  position: absolute;
+  top: 0;
+  right: 22px;
+}
